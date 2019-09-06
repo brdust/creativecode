@@ -6,3 +6,4 @@ This bot came about from a desire to play around with nesting capabilities and c
 
 The bot is hosted at [Cheap Bots Done Quick](https://cheapbotsdonequick.com), so the code is a [Tracery](http://www.tracery.io/) grammar.
 
+This bot is capable of generating a total of 75,778,884,006,600 unique results. 
