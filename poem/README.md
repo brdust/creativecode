@@ -1,3 +1,5 @@
 # Poem of Facts
 
-This script is designed to read a file full of facts about animals, and pull sets of noun phrases and random words to form a 12 line poem. Given the structure, it is largely nonsense, but people can apply reason and interpretation to it. In this way the poem ends up being an interactive exercise in exploring the ways people make connections and look for patterns by nature, much how people will see 'faces' or other identifiable shapes in random patterns. 
+This script is designed to read a file full of facts about animals, and pull sets of noun phrases and random words to form a 12 line conceptual poem. Its structure is extremely simple, extracting entirely random noun phrases and words in two chunks of three, each extracted item being assigned its own line. 
+
+Given this set of random assignments, the poem is intended to be nonsense, but has an interesting effect when viewed through the lense of experience, personality, and thought. Much like how people will find identifiable shapes, like when one goes cloud-watching, in entirely random patterns, the reader will make associatiions and string together different meaning from the words in an attempt to make sense of something with almost no parameters. 
