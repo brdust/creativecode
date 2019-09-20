@@ -1,4 +1,4 @@
-# Poem of Facts
+# Poem of Fact
 
 This script is designed to read a file full of facts about animals, and pull sets of noun phrases and random words to form a 9 line conceptual poem. Its structure is fairly simple, extracting nouns, noun phrases, verbs, and adjectives in varying line lengths and syntactic structures, and throwing them in randomly. 
 
