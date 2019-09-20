@@ -7,7 +7,7 @@ Given this set of random assignments, the poem is intended to be nonsense, but h
 I also hope it will encourage people to think about how langugae is structured, and how we make sense of things, and make much more complicated decisions about what to place where than this code does. 
 
 Examples of different outputs:
-
+```
 plural bumblebee tell vulnerable South
 Owls half translucent combat
 eurasian
@@ -17,4 +17,4 @@ short meat weigh only Bee
 Fu live continued Dane
 be distinctive Singapore
 travel
-
+```
