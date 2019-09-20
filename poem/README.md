@@ -8,6 +8,8 @@ I also hope it will encourage people to think about how langugae is structured, 
 
 Examples of different outputs:
 ```
+Poem of Fact
+
 plural bumblebee tell vulnerable South
 Owls half translucent combat
 eurasian
@@ -17,4 +19,17 @@ short meat weigh only Bee
 Fu live continued Dane
 be distinctive Singapore
 travel
+```
+
+```
+Poem of Fact
+
+small murky train popular Whale
+Hindu have few marine
+hermit crabs king crabs porcelain crabs horseshoe crabs
+eating
+young smell breed white River
+China fly short Female
+drink soft Owls
+be
 ```
