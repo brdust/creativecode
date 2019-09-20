@@ -37,6 +37,7 @@ for word,pos in blob.tags:
   if (pos == 'NNP'):
     nounphrase.append(word)
 
+print('Poem of Facts')
     
 for i in range(1):
   a1 = random.choice(adjectives)
