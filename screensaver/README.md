@@ -1,7 +1,5 @@
-# Logo Bounce
+# Weaving Psychedelic Ball
 
-This project is a "screensaver" designed for the media wall in the HCC. The main image is a logo of umw with a solid-colored square behind it. That logo moves around in the open space and changes color whenever it strikes a wall. The walls around this space are designed to match the opening on the media wall, so the effect is the logo bouncing around on that irregularly-shaped screen. 
+This project was a "screensaver" inspired by many of the old Windows screensavers from my childhood. This included the one with the stars flying at the screen, making it look like you were flying through space, and the colorful pipes that built endlessly. When I was a kid, my mom and dad had their computers on opposite sides of the office desk, so that they were facing each other when they sat there together. There were many times I'd be sitting there, talking to my mom about something or another, and just stare at whatever screesaver my dad had on that week with glazed-over eyes for half an hour at a time. 
 
-For version I'm sharing here, run it by copying the javascript [source code](forthewall.js) into a [p5.js editor](http://editor.p5js.org). Spawn new logos with the space bar.
-
-The inspiration for this project is the classic [bouncing DVD logo](https://www.youtube.com/watch?v=QOtuX0jL85Y).
+My goal was to replicate something similar that I could stare at forever that would mesmerize me and make my mind wander. I'd say I definitely succeeded, as I found myself zoning out several times by accident when working on it. 
