@@ -1,4 +1,4 @@
-# Poem of Fact
+# Poem of Facts
 
 This script is designed to read a file full of facts about animals, and pull sets of noun phrases and random words to form a 9 line conceptual poem. Its structure is fairly simple, extracting nouns, noun phrases, verbs, and adjectives in varying line lengths and syntactic structures, and throwing them in randomly. 
 
@@ -6,30 +6,31 @@ Given this set of random assignments, the poem is intended to be nonsense, but h
 
 I also hope it will encourage people to think about how langugae is structured, and how we make sense of things, and make much more complicated decisions about what to place where than this code does. 
 
+-This poem has been edited to have longer lines with slightly more specific part-of-speech tags, and to generate its own title to match part of the poem. All assignations are still random.-
+
 Examples of different outputs:
 ```
-Poem of Fact
+~inactive Grasshoppers~
 
-plural bumblebee tell vulnerable South
-Owls half translucent combat
-eurasian
-native
-get
-short meat weigh only Bee
-Fu live continued Dane
-be distinctive Singapore
-travel
-```
+poor Zodiac
+they show own order
+there are inactive Grasshoppers flying fever 
+good Africa have be
+turtles meaning St
+there are male years stepping zebra 
+They smell human warren
 
 ```
-Poem of Fact
 
-small murky train popular Whale
-Hindu have few marine
-hermit crabs king crabs porcelain crabs horseshoe crabs
-eating
-young smell breed white River
-China fly short Female
-drink soft Owls
-be
+```
+~second sharks~
+
+resulting Congo
+They are Yellow cheetah
+there are second sharks insulating freshwater 
+same Shelducks have change
+crabs including Asia
+there are powerful Rabbits killing scent 
+they porcelain hot water
+
 ```
