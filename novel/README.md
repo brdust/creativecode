@@ -1,17 +1,31 @@
 # Three Ways to Generate a Novel
 
-This project folder contains three different examples for generating a novel, as definied by [NaNoGenMo](http://nanogenmo.github.io). 
+This project folder contains code for generating a novel, as definied by [NaNoGenMo](http://nanogenmo.github.io). 
 
-## Rainy Days
-The python scripts in [my_rainy_day.py](my_rainy_day.py) and [another_rainy_day.py](another_rainy_day.py) generate novels by randomly repeating and arranging the words "drip" and "drop". The first uses punctionation to mimic the syntax of prose and the second prints the words vertically as a concrete poem about rain.
+## Langston Lang
+The python scripts in [langston_lang.py](langston_lang.py) generates a novel by using the markovify script. Markovify sorts through the input of a text file containing a textbook, "Language: An Introduction to the Study of Speech," by Edward Sapir, an influential linguist, and a random assortment of poems by Langston Hughs, a poet known for his use of language. 
 
-## Recipes for Revolution
-This [python script](revolution_recipes.py) uses a Markov chain generator on some input text to generate novels that should sound something like Karl Marx mashed up with a recipe book. The script expects a file called "combined.txt" in the same directory that the script runs in, so in the example case, that file consists of text from _The Communist Manifesto_ and a recipe book.
+In this project, I was particularly interested in seeing the results of how formal, academic writing about the construction of language meshed with the vernacular, creative use of language that Hughs is known for. By coincidence, or perhaps subconscious design, the program has, I think, a habit of producing thought-invoking sentences, either about language, or the functionings of man and society. 
 
-The script also includes some libraries useful for formatting and printing the resulting text as a PDF document, so in addition to [markovify](https://github.com/jsvine/markovify), you'll also need [pdfkit](https://pypi.org/project/pdfkit/), [wkhtmltopdf](https://wkhtmltopdf.org/), and [dominate](https://github.com/Knio/dominate/).
+A couple of example paragraphs (emphasis my own, highlighting sentences of interest to myself):
 
-## Tracery Bookery
-The enclosed [story.json](story.json) file is a Tracery grammar that should expand a few sentences into something like 50,000 words. The actual word count will vary based on the length and number of the core sentences.
+---
+An inflective language, we must insist, may be understood from the study of how a language so different from the radical element may, on occasion, be identical with the help of symbols for the use of prefixes, suffixes, and infixes--suffixing is much better to admit that we do not like to huddle in clusters of points of contact. Even in the night. 
 
-This JSON file can be dropped into [this template](https://github.com/zachwhalen/bookery).
+---
+
+The fact of fusion itself tends to obscure the inherent value of the irrelevancies of individual association, but they must by no means be interpreted, as is the mechanical imposition of a concreteness of experience rather than in the process in detail, we cannot say. 
+*Henceforward the two peoples.* 
+*Only later in the latter.* 
+
+---
+
+There are, then, an indefinitely long period. What is true that the destructive work of language and thought actually taking place at all. *The sentence is indicated by its greater rhythmical alertness.* Every word, every grammatical element, therefore, are reached only by making a participle out of luck. *They do not easily fit into our formal grooves, but in language as a refined interpretation of its former independence*.
+
+---
+
+Fortunately we do not think so. *I’d like to meet a good ear and a prayer in my soul*. The universality and the same as the word *as the naïve English ear finds the difference between statement and question*. If _unhealthy_ may be understood to include, or rather the juxtaposing or agglutinative nature of any description whatsoever, we have had a corresponding functional distinction. I am utterly unable to follow together in a long time ago, but not unintelligible mode of asking the question, does the farmer and duckling which the sentence is the social seal or warrant of the concepts of activity. But granted that temperament has a large number of elements of language, however, that one of the Scandinavians are non-Germanic members of the English have colonized immense territories. A polysynthetic language illustrates no principles that so common a word into its constituent sounds, but none whatever in determining the words. These are a very minor consideration. 
+
+
+
 
